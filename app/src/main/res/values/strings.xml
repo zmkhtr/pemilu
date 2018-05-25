@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pemilu</string>
+
+    <string name="partai_prompt">Choose a country</string>
+
+    <string-array name="partai_arrays">
+        <item>PKS</item>
+        <item>Gerindra</item>
+        <item>PDIP</item>
+        <item>PKB</item>
+        <item>Demokrat</item>
+        <item>PAN</item>
+        <item>Golkar</item>
+        <item>Perindo</item>
+    </string-array>
+</resources>
